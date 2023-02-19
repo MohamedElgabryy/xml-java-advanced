@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Catalogue>
+                    
+    
+    
+    
+    <Book id="1">
+                                        
+        
+        
+        
+        <Author>m</Author>
+                                        
+        
+        
+        
+        <Title>aa</Title>
+                                        
+        
+        
+        
+        <Genre>Drama</Genre>
+                                        
+        
+        
+        
+        <Price>10.0</Price>
+                                        
+        
+        
+        
+        <Publish_Date>10-10-10</Publish_Date>
+                                        
+        
+        
+        
+        <Description>aaaaaaaaaaaaaaaaaaaaaaaaaa</Description>
+                                    
+    
+    
+    
+    </Book>
+                
+    
+    
+    
+    <Book id="2">
+                                
+        
+        
+        <Author>m</Author>
+                                
+        
+        
+        <Title>mm</Title>
+                                
+        
+        
+        <Genre>Drama</Genre>
+                                
+        
+        
+        <Price>10.0</Price>
+                                
+        
+        
+        <Publish_Date>10-10-10</Publish_Date>
+                                
+        
+        
+        <Description>mmmmmmmmmm</Description>
+                            
+    
+    
+    </Book>
+            
+
+
+    <Book id="3">
+        <Author>n</Author>
+        <Title>nn</Title>
+        <Genre>Drama</Genre>
+        <Price>100.0</Price>
+        <Publish_Date>2010-10-10</Publish_Date>
+        <Description>nnnnnnnnnnnnnnnnn</Description>
+    </Book>
+</Catalogue>
